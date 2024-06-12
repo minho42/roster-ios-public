@@ -24,7 +24,7 @@ Rosterr is a third-party iOS app for HealthRoster.
 | HealthRoster                                    | Rosterr                                          |
 | ----------------------------------------------- | ------------------------------------------------ |
 | 1. Open a web browser.                          | 1. Open an iOS app.                              |
-| 2. Go to the HealthRoster website.              | 2. [Log in once.]                                |
+| 2. Go to the HealthRoster website.              | [2. Log in once.]                                |
 | 3. Log in to HealthRoster (required each time). | 3. View the roster with above mentioned feature. |
 | 4. View the roster.                             |                                                  |
 
