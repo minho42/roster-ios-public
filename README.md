@@ -1,43 +1,36 @@
 # Rosterr
 
-An unofficial third-party iOS app for HealthRoster
+Rosterr is a third-party iOS app for HealthRoster.
 
-## HealthRoster (left) vs Rosterr (right)
+## Feature comparison
+
+|                        | HealthRoster                       | Rosterr (this app)                  |
+| ---------------------- | ---------------------------------- | ----------------------------------- |
+| 📱 Mobile access       | Not optimised for mobile           | Mobile-friendly                     |
+| 💾 Shift data          | Original                           | No need to manually enter shifts    |
+| 🎨 Shift display       | No color difference between shifts | Color-coded shifts                  |
+| 👀 Coworker visibility | No                                 | Yes                                 |
+| 🔒 Login               | Required each time                 | Required only once (securely saved) |
+
+## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="before.png" alt="HealthRoster Before" style="width:48%; max-width:340px;">
   <img src="after.png" alt="HealthRoster After" style="width:48%; max-width:340px;">
 </div>
 
-## Features
+## Usage Comparison
 
-- 📱 Mobile friendly.
-- 🤖 No need to manually enter shifts in your calendar app.
-- 🎨 Color coded shifts.
-- 👫 View **coworkers**.
-- 🔒 Securely save your login once, no need to log in each time.
+| HealthRoster                                    | Rosterr                                          |
+| ----------------------------------------------- | ------------------------------------------------ |
+| 1. Open a web browser.                          | 1. Open an iOS app.                              |
+| 2. Go to the HealthRoster website.              | 2. [Log in once.]                                |
+| 3. Log in to HealthRoster (required each time). | 3. View the roster with above mentioned feature. |
+| 4. View the roster.                             |                                                  |
 
-## How it works
+## Note
 
-### HealthRoster
-
-1. Open a web browser.
-2. Go to the HealthRoster, aka. Employee Online (EOL) website.
-3. Log in to HealthRoster (required each time).
-4. View the roster.
-
-### Rosterr
-
-1. Open an iOS app.
-2. [Log in once.]
-3. View the roster with above mentioned feature.
-
-## Pricing
-
-- Freemium: free to install and use with some limitations
-- Paid users will have no limitations
-
-> Investing in the paid version of the app is tax deductible.
+> Use of this app is **tax deductible**.
 
 ## Privacy Policy
 
