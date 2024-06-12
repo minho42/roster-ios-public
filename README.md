@@ -35,3 +35,9 @@ Rosterr is a third-party iOS app for HealthRoster.
 ## Privacy Policy
 
 [Privacy Policy](privacy-policy.md)
+
+## Contact
+
+Twiter: https://twitter.com/rosterr
+
+Email: healthrosterr@gmail.com
