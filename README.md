@@ -14,9 +14,9 @@ Rosterr is a third-party iOS app for HealthRoster.
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="before.png" alt="HealthRoster Before" style="width:48%; max-width:340px;">
-  <img src="after.png" alt="HealthRoster After" style="width:48%; max-width:340px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="before.png" alt="HealthRoster Before" style="width:50%;">
+  <img src="after.png" alt="HealthRoster After" style="width:50%;">
 </div>
 
 ## Usage Comparison
