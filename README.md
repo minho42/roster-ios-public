@@ -9,7 +9,7 @@ Rosterr is a third-party iOS app for HealthRoster.
 | Mobile access       | Not optimised for mobile           | Mobile-friendly                  |
 | Shift data          | Original                           | No need to manually enter shifts |
 | Shift display       | No color difference between shifts | Color-coded shifts               |
-| Coworker visibility | No                                 | Yes                              |
+| Coworker visibility | No ❌                              | Yes ✅                           |
 | Login               | Required each time                 | Required only once               |
 
 ## Screenshots
@@ -30,7 +30,7 @@ Rosterr is a third-party iOS app for HealthRoster.
 
 ## Note
 
-> Use of this app is **tax deductible**.
+Use of this app is tax deductible.
 
 ## Privacy Policy
 
