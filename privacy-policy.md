@@ -1,6 +1,6 @@
 # Privacy Policy
 
-[] is a third-party client app for NSW HealthRoster.
+Rosterr is a third-party client app for NSW HealthRoster.
 
 The information in our app comes from HealthRoster.
 
@@ -16,11 +16,12 @@ We are not liable for any inaccuracies, delays, or disruptions in the app's perf
 We do not collect any information.
 We do not share your personal information.
 
-Your credentials are securely stored on your phone using Keychain services.
+Your credentials are securely stored on your phone using [Keychain services](<https://en.m.wikipedia.org/wiki/Keychain_(software)>).
 
 Your roster/shift data is stored on your phone.
 
-It may be necessary for [] to change this privacy policy without notice.
+It may be necessary for us to change this privacy policy without notice.
 
 Contact
-Email:
+
+Email: healthrosterr@gmail.com
