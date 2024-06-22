@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Rosterr is a third-party client app for NSW HealthRoster.
+Roster is a third-party client app for NSW HealthRoster.
 
 The information in our app comes from HealthRoster.
 

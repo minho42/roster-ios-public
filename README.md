@@ -1,10 +1,10 @@
-# Rosterr
+# Roster
 
-Rosterr is a third-party iOS app for HealthRoster.
+Roster is a third-party iOS app for HealthRoster.
 
 ## Feature comparison
 
-|                     | HealthRoster                       | Rosterr                          |
+|                     | HealthRoster                       | Roster                           |
 | ------------------- | ---------------------------------- | -------------------------------- |
 | Mobile access       | Not optimised for mobile           | Mobile-friendly (iOS only)       |
 | Shift data          | Original                           | No need to manually enter shifts |
@@ -21,7 +21,7 @@ Rosterr is a third-party iOS app for HealthRoster.
 
 ## Usage Comparison
 
-| HealthRoster                                    | Rosterr                                          |
+| HealthRoster                                    | Roster                                           |
 | ----------------------------------------------- | ------------------------------------------------ |
 | 1. Open a web browser.                          | 1. Open an iOS app.                              |
 | 2. Go to the HealthRoster website.              | [2. Log in once.]                                |
