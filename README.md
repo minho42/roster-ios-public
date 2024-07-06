@@ -38,6 +38,4 @@ Use of this app is tax deductible.
 
 ## Contact
 
-Twitter: https://x.com/healthrosterr
-
 Email: healthrosterr@gmail.com
