@@ -36,11 +36,9 @@ Roster is a third-party iOS app for HealthRoster.
 
 ## Support
 
-https://forms.gle/ErXimyrCtsRdiTkU7
+If you have any issues/questions or nice things to say to the author:
 
-Fill in the Google Forms if you have any issues/questions/etc or email the author.
-
-
-## Contact
-
-Email: gimbapapps@gmail.com
+- Email the author: gimbapapps@gmail.com
+- Fill in the Google Forms: https://forms.gle/ErXimyrCtsRdiTkU7
+- Open an issue on GitHub (if you have an account)
+- Leave a review on the App Store
