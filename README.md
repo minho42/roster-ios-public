@@ -14,10 +14,8 @@ Roster is a third-party iOS app for HealthRoster.
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="before.png" alt="HealthRoster Before" style="width:49%; max-width:340px;">
-  <img src="after.png" alt="HealthRoster After" style="width:49%; max-width:340px;">
-</div>
+<img src="screenshot.png" alt="screenshot" style="width:49%; max-width:340px;">
+
 
 ## Usage Comparison
 
@@ -30,12 +28,19 @@ Roster is a third-party iOS app for HealthRoster.
 
 ## Note
 
-Use of this app is tax deductible.
+- This app is only available for those who have access to NSW HealthRoster using from within Australia.
 
 ## Privacy Policy
 
 [Privacy Policy](privacy-policy.md)
 
+## Support
+
+https://forms.gle/ErXimyrCtsRdiTkU7
+
+Fill in the Google Forms if you have any issues/questions/etc or email the author.
+
+
 ## Contact
 
-Email: healthrosterr@gmail.com
+Email: gimbapapps@gmail.com
