@@ -16,7 +16,6 @@ Roster is a third-party iOS app for HealthRoster.
 
 <img src="screenshot.png" alt="screenshot" style="width:49%; max-width:340px;">
 
-
 ## Usage Comparison
 
 | HealthRoster                                    | Roster                                           |
@@ -28,7 +27,8 @@ Roster is a third-party iOS app for HealthRoster.
 
 ## Note
 
-- This app is only available for those who have access to NSW HealthRoster using from within Australia.
+- Only available for those who have access to NSW HealthRoster using from within Australia.
+- Shift information is frequently synced to NSW HealthRoster, but may not be up to date at certain points
 
 ## Privacy Policy
 
