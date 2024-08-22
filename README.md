@@ -29,6 +29,7 @@ Roster is a third-party iOS app for HealthRoster.
 
 - Only available for those who have access to HealthRoster using from within Australia.
 - Shift information is frequently synced to HealthRoster, but may not be up to date at certain points
+- Not all information accessible from HealthRoster is available in this app, e.g., notes, whether a shift has been changed after approval, etc.
 
 ## FAQ
 
@@ -37,7 +38,7 @@ Roster is a third-party iOS app for HealthRoster.
 > Yes.
 > Your information is securely stored in the [Keychain](<https://en.wikipedia.org/wiki/Keychain_(software)>), and is not shared with any other service.
 > There is no intermediary server between this app and HealthRoster.
-> App communicates with HealthRoster like your web browser does.
+> Roster communicates with HealthRoster like your web browser does.
 
 **Did we get approval from HealthRoster?**
 
