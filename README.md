@@ -27,8 +27,23 @@ Roster is a third-party iOS app for HealthRoster.
 
 ## Note
 
-- Only available for those who have access to NSW HealthRoster using from within Australia.
-- Shift information is frequently synced to NSW HealthRoster, but may not be up to date at certain points
+- Only available for those who have access to HealthRoster using from within Australia.
+- Shift information is frequently synced to HealthRoster, but may not be up to date at certain points
+
+## FAQ
+
+**Is it safe to use?**
+
+> Yes.
+> Your information is securely stored in the [Keychain](<https://en.wikipedia.org/wiki/Keychain_(software)>), and is not shared with any other service.
+> There is no intermediary server between this app and HealthRoster.
+> App communicates with HealthRoster like your web browser does.
+
+**Did we get approval from HealthRoster?**
+
+> No.
+> This is an unofficial third-party app that improves the experience of HealthRoster.
+> Roster is still able to obtain your information because you logged in with your HealthRoster username and password.
 
 ## Privacy Policy
 
@@ -39,6 +54,6 @@ Roster is a third-party iOS app for HealthRoster.
 If you need assistance, have questions, or would like to provide feedback to the author, please use one of the following methods:
 
 - Email the author: gimbapapps@gmail.com
-- Fill in the Google Forms: https://forms.gle/ErXimyrCtsRdiTkU7
 - Open an issue on GitHub (if you have an account)
 - Leave a review on the App Store
+- Fill in the Google Forms: https://forms.gle/ErXimyrCtsRdiTkU7
