@@ -46,6 +46,12 @@ Roster is a third-party iOS app for HealthRoster.
 > This is an unofficial third-party app that improves the experience of HealthRoster.
 > Roster is still able to obtain your information because you logged in with your HealthRoster username and password.
 
+**App is crashing or not showing data**
+
+> - Try logging out and logging in again.
+> - Delete and reinstall the app.
+> - Email the author.
+
 ## Privacy Policy
 
 [Privacy Policy](privacy-policy.md)
