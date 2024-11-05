@@ -1,5 +1,3 @@
-# ⚠️ Roster app is temporarily unavailable on the App Store. This has been in effect since 29/08/2024, 17:20.
-
 # Roster
 
 Roster is a third-party iOS app for HealthRoster.
