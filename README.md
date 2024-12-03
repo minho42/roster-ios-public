@@ -1,6 +1,8 @@
-# Roster
+# Roster is a third-party iOS app for NSW HealthRoster.
 
-Roster is a third-party iOS app for HealthRoster.
+<a href="https://apps.apple.com/au/app/roster/id6504712129">
+    <img src="app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
+</a>
 
 ## Feature comparison
 
@@ -43,7 +45,7 @@ Roster is a third-party iOS app for HealthRoster.
 **Did we get approval from HealthRoster?**
 
 > No.
-> This is an unofficial third-party app that improves the experience of HealthRoster.
+> This is an unofficial third-party app that improves the experience of HealthRoster users.
 > Roster is still able to obtain your information because you logged in with your HealthRoster username and password.
 
 **App is crashing or not showing data**
