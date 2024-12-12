@@ -83,3 +83,5 @@ Please contact the author if you're concerned about your security.
 </a>
 
 ![qrcode](qrcode.png)
+
+Thank you for using Roster.
