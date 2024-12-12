@@ -71,7 +71,7 @@ If you need assistance, have questions, or would like to provide feedback to the
 
 - Email the author: gimbapapps@gmail.com
 
-Please contact the author if you're concerned about your security or found potential security vulnerabilities.
+Please contact the author if you're concerned about your security.
 
 ## How to support the author ❤️
 
