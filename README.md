@@ -6,13 +6,13 @@
 
 ## Feature comparison
 
-|                     | HealthRoster                       | Roster                           |
-| ------------------- | ---------------------------------- | -------------------------------- |
-| Mobile access       | Not optimised for mobile           | Mobile-friendly (iOS only)       |
-| Shift data          | Original                           | No need to manually enter shifts |
-| Shift display       | No color difference between shifts | Color-coded shifts               |
-| Coworker visibility | No ❌                              | Yes ✅                           |
-| Login               | Required each time                 | Required only once               |
+|                     | HealthRoster                       | Roster                                 |
+| ------------------- | ---------------------------------- | -------------------------------------- |
+| Mobile access       | Not optimised for mobile           | Mobile-friendly (iOS only)             |
+| Shift data          | Original                           | No need to manually enter shifts       |
+| Shift display       | No color difference between shifts | Color-coded shifts                     |
+| Coworker visibility | Hidden inside your browser         | Yes ✅                                 |
+| Login               | Required each time                 | Required only once (until login fails) |
 
 ## Screenshots
 
@@ -30,7 +30,7 @@
 ## Note
 
 - Only available for those who have access to HealthRoster using from within Australia.
-- Shift information is frequently synced to HealthRoster, but may not be up to date at certain points
+- Shift information is frequently synced (Q1H) to HealthRoster, but may not be up to date at certain points
 - Not all information accessible from HealthRoster is available in this app, e.g., notes, whether a shift has been changed after approval, etc.
 
 ## FAQ
@@ -38,7 +38,7 @@
 **Is it safe to use?**
 
 > Yes.
-> Your information is securely stored in the [Keychain](<https://en.wikipedia.org/wiki/Keychain_(software)>), and is not shared with any other service.
+> Your information is securely stored in the [Keychain](<https://en.wikipedia.org/wiki/Keychain_(software)>).
 > There is no intermediary server between this app and HealthRoster.
 > Roster communicates with HealthRoster like your web browser does.
 
@@ -52,7 +52,14 @@
 
 > - Try logging out and logging in again.
 > - Delete and reinstall the app.
-> - Email the author.
+
+**Did we 'fail to maintain the security of confidential and sensitive information by developing and releasing this app'?**
+
+> No.
+>
+> 1. You can only see your own roster.
+> 2. Coworker names were not obtained without consent. This information is already present in the browser when you use the NSW HealthRoster. We simply made it more accessible.
+> 3. Being able to see who your coworkers are is one of your rights ([Know Your Rights by NSWNMA](https://www.nswnma.asn.au/wp-content/uploads/2023/08/Know-Your-Rights-A5-book.pdf#page=12))
 
 ## Privacy Policy
 
@@ -63,6 +70,16 @@
 If you need assistance, have questions, or would like to provide feedback to the author, please use one of the following methods:
 
 - Email the author: gimbapapps@gmail.com
-- Open an issue on GitHub (if you have an account)
-- Leave a review on the App Store
-- Fill in the Google Forms: https://forms.gle/ErXimyrCtsRdiTkU7
+
+Please contact the author if you're concerned about your security or found potential security vulnerabilities.
+
+## How to support the author ❤️
+
+- Give it a 5 star review on the App Store -> [link](https://apps.apple.com/au/app/roster/id6504712129?action=write-review&startRating=5)
+- Tell you friends to try
+
+<a href="https://apps.apple.com/au/app/roster/id6504712129">
+    <img src="app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
+</a>
+
+![qrcode](qrcode.png)
