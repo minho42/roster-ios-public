@@ -67,11 +67,7 @@
 
 ## Support
 
-If you need assistance, have questions, or would like to provide feedback to the author, please use one of the following methods:
-
-- Email the author: gimbapapps@gmail.com
-
-Please contact the author if you're concerned about your security.
+Email the author at gimbapapps@gmail.com for any inquiries or to share your feedback.
 
 ## How to support the author ❤️
 
