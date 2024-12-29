@@ -1,7 +1,7 @@
 # Roster is a third-party iOS app for NSW HealthRoster.
 
 <a href="https://apps.apple.com/au/app/roster/id6504712129">
-    <img src="app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
+    <img src="images/app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
 </a>
 
 ## Feature comparison
@@ -16,7 +16,7 @@
 
 ## Screenshots
 
-<img src="screenshot.png" alt="screenshot" style="max-width:340px;">
+<img src="images/screenshot.png" alt="screenshot" style="max-width:340px;">
 
 ## Usage Comparison
 
@@ -76,11 +76,11 @@ Email the author at gimbapapps@gmail.com for any inquiries or to share your feed
 - Buy me a digital coffee: [support the app](https://buymeacoffee.com/minhokim)
 
 <a href="https://apps.apple.com/au/app/roster/id6504712129">
-    <img src="app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
+    <img src="images/app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
 </a>
 
-<img src="qrcode.png" alt="qrcode" style="max-width:340px; margin: 10px 0;">
+<img src="images/qrcode.png" alt="qrcode" style="max-width:340px; margin: 10px 0;">
 
-<img src="bmc_qr.png" alt="bmc_qr" style="max-width:340px; margin: 10px 0;">
+<img src="images/bmc_qr.png" alt="bmc_qr" style="max-width:340px; margin: 10px 0;">
 
 Thank you for using Roster.
