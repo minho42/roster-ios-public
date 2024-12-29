@@ -16,7 +16,7 @@
 
 ## Screenshots
 
-<img src="screenshot.png" alt="screenshot" style="width:49%; max-width:340px;">
+<img src="screenshot.png" alt="screenshot" style="max-width:340px;">
 
 ## Usage Comparison
 
@@ -69,15 +69,18 @@
 
 Email the author at gimbapapps@gmail.com for any inquiries or to share your feedback.
 
-## How to support the author ❤️
+## How to support the App ❤️
 
-- Give it a 5 star review on the App Store -> [link](https://apps.apple.com/au/app/roster/id6504712129?action=write-review&startRating=5)
-- Tell you friends to try
+- Leave a 5-star rating on the App Store: [rate the app](https://apps.apple.com/au/app/roster/id6504712129?action=write-review&startRating=5)
+- 📢 Tell your friends to try it out
+- ☕ Buy me a digital coffee: [support the app](https://buymeacoffee.com/minhokim)
 
 <a href="https://apps.apple.com/au/app/roster/id6504712129">
     <img src="app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
 </a>
 
-![qrcode](qrcode.png)
+<img src="qrcode.png" alt="qrcode" style="max-width:340px; margin: 10px 0;">
+
+<img src="bmc_qr.png" alt="bmc_qr" style="max-width:340px; margin: 10px 0;">
 
 Thank you for using Roster.
