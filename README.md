@@ -71,9 +71,9 @@ Email the author at gimbapapps@gmail.com for any inquiries or to share your feed
 
 ## How to support the App ❤️
 
-- Leave a 5-star rating on the App Store: [rate the app](https://apps.apple.com/au/app/roster/id6504712129?action=write-review&startRating=5)
-- 📢 Tell your friends to try it out
-- ☕ Buy me a digital coffee: [support the app](https://buymeacoffee.com/minhokim)
+- Give 5 stars on the App Store: [rate the app](https://apps.apple.com/au/app/roster/id6504712129?action=write-review&startRating=5)
+- Tell your friends to try it out
+- Buy me a digital coffee: [support the app](https://buymeacoffee.com/minhokim)
 
 <a href="https://apps.apple.com/au/app/roster/id6504712129">
     <img src="app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
