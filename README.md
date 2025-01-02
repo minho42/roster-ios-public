@@ -73,14 +73,12 @@ Email the author at gimbapapps@gmail.com for any inquiries or to share your feed
 
 - Give 5 stars on the App Store: [rate the app](https://apps.apple.com/au/app/roster/id6504712129?action=write-review&startRating=5)
 - Tell your friends to try it out
-- Buy me a digital coffee: [support the app](https://buymeacoffee.com/minhokim)
+- Tip the developer: [support](https://buy.stripe.com/9AQg1ph2x6CJ2be9AA)
 
 <a href="https://apps.apple.com/au/app/roster/id6504712129">
     <img src="images/app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
 </a>
 
 <img src="images/qrcode.png" alt="qrcode" style="max-width:340px; margin: 10px 0;">
-
-<img src="images/bmc_qr.png" alt="bmc_qr" style="max-width:340px; margin: 10px 0;">
 
 Thank you for using Roster.
