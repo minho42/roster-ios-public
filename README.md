@@ -61,6 +61,10 @@
 > 2. Coworker names were not obtained without consent. This information is already present in the browser when you use the NSW HealthRoster. We simply made it more accessible.
 > 3. Being able to see who your coworkers are is one of your rights ([Know Your Rights by NSWNMA](https://www.nswnma.asn.au/wp-content/uploads/2023/08/Know-Your-Rights-A5-book.pdf#page=12))
 
+**Will there be an Android version?**
+
+> No, we currently have no plans to develop an Android version.
+
 ## Privacy Policy
 
 [Privacy Policy](privacy-policy.md)
