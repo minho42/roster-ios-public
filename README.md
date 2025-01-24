@@ -10,8 +10,20 @@
 | ------------------- | ---------------------------------- | -------------------------------------- |
 | Mobile access       | Not optimised for mobile           | Mobile-friendly (iOS only)             |
 | Shift display       | No color difference between shifts | Color-coded shifts                     |
-| Coworker visibility | Hidden inside your browser         | Visible                                |
+| Coworker visibility | Hidden inside your browser         | Visible (unrestricted for Pro Plan)    |
 | Login               | Required each time                 | Required only once (until login fails) |
+
+## Pro Plan
+
+Pro plan is a monthly subscription to unlock all features:
+
+- Ad-free
+- See coworkers
+
+Note:
+
+- After 7-day free trial, auto-renews monthly until canceled.
+- If it's work related, it may be tax deductible, check with your accountant.
 
 ## Screenshots
 
