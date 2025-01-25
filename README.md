@@ -29,7 +29,7 @@ Note:
 
 ## Screenshots
 
-<img src="images/screenshot.png" alt="screenshot" style="max-width:340px;">
+<img src="images/screenshot.png" alt="screenshot" style="width:340px;">
 
 ## Usage Comparison
 
@@ -102,4 +102,4 @@ Email the author at gimbapapps@gmail.com for any inquiries or to share your feed
     <img src="images/app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
 </a>
 
-<img src="images/qrcode.png" alt="qrcode" style="max-width:340px; margin: 10px 0;">
+<img src="images/qrcode.png" alt="qrcode" style="width:300px; margin: 10px 0;">
