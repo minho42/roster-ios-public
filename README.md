@@ -15,7 +15,7 @@
 
 ## Pro Plan
 
-> 25/1/2025: **⚠️ There seems to be some issues where subscribed users are still unable to see the coworkers. Updated version with bug fix (hopefully) has been submitted for review in the App Store. We sincerely apologizs for this inconvenience.**
+> 25/1/2025: **⚠️ There seems to be some issues where subscribed users are still unable to see the coworkers. Updated version (v 1.0) with bug fix (hopefully) has been submitted for review in the App Store. We sincerely apologizs for this inconvenience.**
 
 Pro plan is a monthly subscription to unlock all features:
 
