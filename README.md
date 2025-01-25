@@ -91,6 +91,8 @@ Note:
 
 Email the author at gimbapapps@gmail.com for any inquiries or to share your feedback.
 
+> 25/1/2025: **⚠️ There seems to be some issues where subscribed users are still unable to see the coworkers. Updated version (v 1.0) with bug fix (hopefully) has been submitted for review in the App Store. We sincerely apologise for this inconvenience.**
+
 ## How to support the App ❤️
 
 - Give 5 stars on the App Store: [rate the app](https://apps.apple.com/au/app/roster/id6504712129?action=write-review&startRating=5)
