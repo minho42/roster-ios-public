@@ -43,14 +43,14 @@ Note:
 ## Note
 
 - Only available for those who have access to HealthRoster using from within Australia.
-- Shift information is frequently synced (Q1H) to HealthRoster, but may not be up to date at certain points
+- Shift information is frequently synced (Q1H) to HealthRoster, but may not be up to date at certain points; Pro plan user may have it synced more frequently.
 - Not all information accessible from HealthRoster is available in this app, e.g., notes, whether a shift has been changed after approval, etc.
 
 ## FAQ
 
 - ### Is it safe to use?
 
-  > Yes, we believe so.
+  > Yes.
   > Your information is securely stored in the [Keychain](<https://en.wikipedia.org/wiki/Keychain_(software)>).
   > There is no intermediary server between this app and HealthRoster.
   > Roster app communicates with HealthRoster like your web browser does.
@@ -89,7 +89,7 @@ Note:
 
 ## Support
 
-Email the author at gimbapapps@gmail.com for any inquiries or to share your feedback.
+Email the developer at gimbapapps@gmail.com for any inquiries or to share your feedback.
 
 > 25/1/2025: **⚠️ There seems to be some issues where subscribed users are still unable to see the coworkers. Updated version (v 1.0) with bug fix (hopefully) has been submitted for review in the App Store. We sincerely apologise for this inconvenience.**
 
