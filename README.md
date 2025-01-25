@@ -15,7 +15,7 @@
 
 ## Pro Plan
 
-> 26/1/2025: **⚠️ We've identified an issue where some subscribed users are unable to see their coworkers. We're working on fixing the issue. We sincerely apologise for the inconvenience.**
+> 26/1/2025: **⚠️ We've identified an issue where some subscribed users are unable to see their coworkers. We're working on fixing the issue. We sincerely apologise for the inconvenience. Make sure to cancel the subscription if it doesn't work for you before free-trial ends.**
 
 Pro plan is a monthly subscription to unlock all features:
 
@@ -91,7 +91,7 @@ Note:
 
 Email the developer at gimbapapps@gmail.com for any inquiries or to share your feedback.
 
-> 26/1/2025: **⚠️ We've identified an issue where some subscribed users are unable to see their coworkers. We're working on fixing the issue. We sincerely apologise for the inconvenience.**
+> 26/1/2025: **⚠️ We've identified an issue where some subscribed users are unable to see their coworkers. We're working on fixing the issue. We sincerely apologise for the inconvenience. Make sure to cancel the subscription if it doesn't work for you before free-trial ends.**
 
 ## How to support the App ❤️
 
