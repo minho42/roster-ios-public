@@ -24,7 +24,7 @@ Pro plan is a monthly subscription to unlock all features:
 
 Note:
 
-- After 7-day free trial, auto-renews monthly until canceled.
+- After 7-day free trial, auto-renews monthly until cancelled.
 - If it's work related, it may be tax deductible, check with your accountant.
 
 ## Screenshots
