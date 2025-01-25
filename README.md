@@ -15,7 +15,7 @@
 
 ## Pro Plan
 
-> 25/1/2025: **⚠️ There seems to be some issues where subscribed users are still unable to see the coworkers. Updated version (v 1.0) with bug fix (hopefully) has been submitted for review in the App Store. We sincerely apologise for this inconvenience.**
+> 25/1/2025: **⚠️ We’ve identified an issue where some subscribed users are unable to see their coworkers. A bug fix has been included in the updated version (v1.0), which has been submitted for review to the App Store. We sincerely apologise for the inconvenience.**
 
 Pro plan is a monthly subscription to unlock all features:
 
@@ -91,7 +91,7 @@ Note:
 
 Email the developer at gimbapapps@gmail.com for any inquiries or to share your feedback.
 
-> 25/1/2025: **⚠️ There seems to be some issues where subscribed users are still unable to see the coworkers. Updated version (v 1.0) with bug fix (hopefully) has been submitted for review in the App Store. We sincerely apologise for this inconvenience.**
+> 25/1/2025: **⚠️ We’ve identified an issue where some subscribed users are unable to see their coworkers. A bug fix has been included in the updated version (v1.0), which has been submitted for review to the App Store. We sincerely apologise for the inconvenience.**
 
 ## How to support the App ❤️
 
