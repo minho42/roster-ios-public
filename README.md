@@ -7,7 +7,7 @@
 ## Note
 
 - Only available for those who have access to HealthRoster using from within Australia.
-- Shift information is frequently synced (Q1H) to HealthRoster, but may not be up to date at certain points; Pro plan user may have it synced more frequently.
+- Shift information is frequently synced (Q1H) to HealthRoster.
 - Not all information accessible from HealthRoster is available in this app, e.g., notes, whether a shift has been changed after approval, etc.
 
 ## FAQ
@@ -56,11 +56,6 @@
 Email the developer at gimbapapps@gmail.com for any inquiries or to share your feedback.
 
 # 🚨 Sincerely apologise for inconvenience caused to some Pro users who have been unable to unlock the features. To address this, we've decided to roll back the subscription model until the issues are resolved. If you've purchased a subscription, you can cancel it and request a refund from the App Store.
-
-## How to support the App ❤️
-
-- Give 5 stars on the App Store: [rate the app](https://apps.apple.com/au/app/roster/id6504712129?action=write-review&startRating=5)
-- Tell your friends to try it out
 
 <a href="https://apps.apple.com/au/app/roster/id6504712129">
     <img src="images/app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
