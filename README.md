@@ -4,28 +4,6 @@
     <img src="images/app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
 </a>
 
-## Feature comparison
-
-|                     | HealthRoster                       | Roster                                 |
-| ------------------- | ---------------------------------- | -------------------------------------- |
-| Mobile access       | Not optimised for mobile           | Mobile-friendly (iOS only)             |
-| Shift display       | No color difference between shifts | Color-coded shifts                     |
-| Coworker visibility | Hidden inside your browser         | Visible                                |
-| Login               | Required each time                 | Required only once (until login fails) |
-
-## Screenshots
-
-<img src="images/screenshot.png" alt="screenshot" style="width:340px;">
-
-## Usage Comparison
-
-| HealthRoster                                    | Roster                                           |
-| ----------------------------------------------- | ------------------------------------------------ |
-| 1. Open a web browser.                          | 1. Open an iOS app.                              |
-| 2. Go to the HealthRoster website.              | [2. Log in once.]                                |
-| 3. Log in to HealthRoster (required each time). | 3. View the roster with above mentioned feature. |
-| 4. View the roster.                             |                                                  |
-
 ## Note
 
 - Only available for those who have access to HealthRoster using from within Australia.
