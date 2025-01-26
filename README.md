@@ -55,10 +55,4 @@
 
 Email the developer at gimbapapps@gmail.com for any inquiries or to share your feedback.
 
-# 🚨 Sincerely apologise for inconvenience caused to some Pro users who have been unable to unlock the features. To address this, we've decided to roll back the subscription model until the issues are resolved. If you've purchased a subscription, you can cancel it and request a refund from the App Store.
-
-<a href="https://apps.apple.com/au/app/roster/id6504712129">
-    <img src="images/app-store-badge.png" alt="app-store-badge" style="width:160px; height:54px;">
-</a>
-
-<img src="images/qrcode.png" alt="qrcode" style="width:300px; margin: 10px 0;">
+## 🚨 Sincerely apologise for inconvenience caused to some Pro users who have been unable to unlock the features. To address this, we've decided to roll back the subscription model until the issues are resolved. If you've purchased a subscription, you can cancel it and request a refund from the App Store.
