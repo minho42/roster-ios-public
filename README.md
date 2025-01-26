@@ -10,22 +10,8 @@
 | ------------------- | ---------------------------------- | -------------------------------------- |
 | Mobile access       | Not optimised for mobile           | Mobile-friendly (iOS only)             |
 | Shift display       | No color difference between shifts | Color-coded shifts                     |
-| Coworker visibility | Hidden inside your browser         | Visible (unrestricted for Pro Plan)    |
+| Coworker visibility | Hidden inside your browser         | Visible                                |
 | Login               | Required each time                 | Required only once (until login fails) |
-
-## Pro Plan
-
-> 26/1/2025: **⚠️ We've identified an issue where some subscribed users are unable to see their coworkers. We're working on fixing the issue. We sincerely apologise for the inconvenience. Make sure to cancel the subscription if it doesn't work for you before free-trial ends.**
-
-Pro plan is a monthly subscription to unlock all features:
-
-- Ad-free
-- See coworkers
-
-Note:
-
-- After 7-day free trial, auto-renews monthly until cancelled.
-- If it's work related, it may be tax deductible, check with your accountant.
 
 ## Screenshots
 
@@ -91,9 +77,7 @@ Note:
 
 Email the developer at gimbapapps@gmail.com for any inquiries or to share your feedback.
 
-# 🚨 If you have purchasd the subscription before free-trial was available, and the app doesn't unlock everything as a Pro user, please cancel the subscription and ask Apple for refund, or email the developer.
-
-> 26/1/2025: **⚠️ We've identified an issue where some subscribed users are unable to see their coworkers. We're working on fixing the issue. We sincerely apologise for the inconvenience. Make sure to cancel the subscription if it doesn't work for you before free-trial ends.**
+# 🚨 Sincerely apologise for inconvenience caused to some Pro users who have been unable to unlock the features. To address this, we've decided to roll back the subscription model until the issues are resolved. If you've purchased a subscription, you can cancel it and request a refund from the App Store.
 
 ## How to support the App ❤️
 
