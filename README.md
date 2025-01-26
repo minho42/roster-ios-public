@@ -91,6 +91,8 @@ Note:
 
 Email the developer at gimbapapps@gmail.com for any inquiries or to share your feedback.
 
+# 🚨 If you have purchasd the subscription before free-trial was available, and the app doesn't unlock everything as a Pro user, please cancel the subscription and ask Apple for refund, or email the developer.
+
 > 26/1/2025: **⚠️ We've identified an issue where some subscribed users are unable to see their coworkers. We're working on fixing the issue. We sincerely apologise for the inconvenience. Make sure to cancel the subscription if it doesn't work for you before free-trial ends.**
 
 ## How to support the App ❤️
