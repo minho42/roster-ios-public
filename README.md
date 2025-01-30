@@ -55,4 +55,4 @@
 
 Email the developer at gimbapapps@gmail.com for any inquiries or to share your feedback.
 
-## 🚨 Sincerely apologise for inconvenience caused to some Pro users who have been unable to unlock the features. To address this, we've decided to roll back the subscription model until the issues are resolved. If you've purchased a subscription, you can cancel it and request a refund from the App Store.
+## 🚨 We sincerely apologise for inconvenience caused to some Pro users who have been unable to unlock the features. To address this, we've decided to roll back the subscription model until the issues are resolved. If you've purchased a subscription, you can cancel it and request a refund from the App Store.
