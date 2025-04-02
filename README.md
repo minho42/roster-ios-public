@@ -9,4 +9,4 @@ Email: gimbapapps@gmail.com
 ## Shutdown
 
 The roster ios app has been removed from the app store.
-It may return in the future.
+It may or may not return in the future.
